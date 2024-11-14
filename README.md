@@ -41,8 +41,8 @@ Building on these efforts, this project can create reusable data models that can
 
 please open a PR to add links relevant projects.
 
-## Ingestion
-- [WIP parquet files](https://github.com/DataRecce/TodoFEC-dbt)
+## Parsing
+- [parquet files](https://github.com/DataRecce/TodoFEC-parser)
 
 ## Modeling
 - [dbt](https://github.com/DataRecce/TodoFEC-dbt)
